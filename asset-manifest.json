@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ambition-site/static/css/main.832a9ce1.css",
+    "main.js": "/ambition-site/static/js/main.3a951020.js",
+    "static/media/into.mp4": "/ambition-site/static/media/into.c8e93b7f012e9a72185a.mp4",
+    "static/media/UrbanJungleDEMO.otf": "/ambition-site/static/media/UrbanJungleDEMO.b6c2d200dedd8c18d02e.otf",
+    "index.html": "/ambition-site/index.html",
+    "main.832a9ce1.css.map": "/ambition-site/static/css/main.832a9ce1.css.map",
+    "main.3a951020.js.map": "/ambition-site/static/js/main.3a951020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.832a9ce1.css",
+    "static/js/main.3a951020.js"
+  ]
+}
